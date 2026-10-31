@@ -7,6 +7,7 @@ $ whoami
 **Senior Machine Learning Engineer · AI · Deep Learning · NLP · Data Science**
 
 [![Email](https://img.shields.io/badge/Email-harsh.ankit.619@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:harsh.ankit.619@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harsh364.github.io-6366F1)](https://harsh364.github.io)
 [![Site](https://img.shields.io/badge/Site-byajbook.com-0EA5E9)](https://byajbook.com)
 [![Profile](https://img.shields.io/badge/GitHub-harsh364-181717?logo=github)](https://github.com/harsh364)
 
@@ -91,19 +92,23 @@ I combine research-style NLP/deep learning roots with **shipping** ML in product
 
 ### Open source on GitHub
 
+[![rag-mini-stack](https://img.shields.io/badge/rag--mini--stack-RAG%20%2B%20Hit%40k-10B981?style=for-the-badge)](https://github.com/harsh364/rag-mini-stack)
+[![agent-orchestration-lab](https://img.shields.io/badge/agent--orchestration--lab-LangGraph%20%2F%20CrewAI-4B32C3?style=for-the-badge)](https://github.com/harsh364/agent-orchestration-lab)
+[![tool-server-starter](https://img.shields.io/badge/tool--server--starter-MCP%20tools-6366F1?style=for-the-badge)](https://github.com/harsh364/tool-server-starter)
+[![distill-and-eval](https://img.shields.io/badge/distill--and--eval-Distillation-F7931E?style=for-the-badge)](https://github.com/harsh364/distill-and-eval)
+[![api-findings-harness](https://img.shields.io/badge/api--findings--harness-Repro%20probes-009688?style=for-the-badge)](https://github.com/harsh364/api-findings-harness)
+[![Deep-Learning-on-Imagenet](https://img.shields.io/badge/Deep--Learning--on--Imagenet-Vision-EE4C2C?style=for-the-badge)](https://github.com/harsh364/Deep-Learning-on-Imagenet)
+
 | Repository | Focus |
 |------------|--------|
-| [**Deep-Learning-on-Imagenet**](https://github.com/harsh364/Deep-Learning-on-Imagenet) | Deep learning · vision / transfer learning |
-| [**api-findings-harness**](https://github.com/harsh364/api-findings-harness) | Rigorous API regression & reproducible checks (supports agent/tool eval discipline) |
+| [**rag-mini-stack**](https://github.com/harsh364/rag-mini-stack) | Index · retrieve · **offline extractive RAG** · Hit@k |
+| [**agent-orchestration-lab**](https://github.com/harsh364/agent-orchestration-lab) | **LangGraph** + **agent-lab-eval** + optional CrewAI |
+| [**tool-server-starter**](https://github.com/harsh364/tool-server-starter) | **MCP** scoped note tools + integration tests |
+| [**distill-and-eval**](https://github.com/harsh364/distill-and-eval) | Teacher → student distill · JSON metrics |
+| [**api-findings-harness**](https://github.com/harsh364/api-findings-harness) | Trace replay · probes · architecture guide |
+| [**Deep-Learning-on-Imagenet**](https://github.com/harsh364/Deep-Learning-on-Imagenet) | Deep learning · vision |
 
-**Planned public demos** *(general-purpose, community-friendly)*  
-
-| Repo (upcoming) | Showcase |
-|-----------------|----------|
-| `agent-orchestration-lab` | **LangGraph** + **CrewAI** multi-step agents with eval hooks |
-| `rag-mini-stack` | End-to-end **RAG** + retrieval metrics |
-| `tool-server-starter` | Small **MCP-compatible** tool server + client tests |
-| `distill-and-eval` | **Distillation / fine-tuning** with before/after benchmarks |
+**Suggested pin order:** `rag-mini-stack` → `agent-orchestration-lab` → `tool-server-starter` → `distill-and-eval` → `api-findings-harness` → Imagenet
 
 ---
 
@@ -123,7 +128,8 @@ role:      Senior Machine Learning Engineer
 education: IIT Madras (M.Tech CSE) · IIT Kanpur (B.Tech)
 focus:     Agents, LLMs, RAG, fine-tuning & distillation, NLP, deep learning, data science
 email:     harsh.ankit.619@gmail.com
-web:       https://byajbook.com
+web:       https://harsh364.github.io
+portfolio: https://harsh364.github.io/#projects
 github:    https://github.com/harsh364
 ```
 
