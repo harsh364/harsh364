@@ -10,6 +10,7 @@ $ whoami
 [![Portfolio](https://img.shields.io/badge/Portfolio-harsh364.github.io-6366F1)](https://harsh364.github.io)
 [![Site](https://img.shields.io/badge/Site-byajbook.com-0EA5E9)](https://byajbook.com)
 [![Profile](https://img.shields.io/badge/GitHub-harsh364-181717?logo=github)](https://github.com/harsh364)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh364-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh364)
 
 ---
 
@@ -128,6 +129,7 @@ role:      Senior Machine Learning Engineer
 education: IIT Madras (M.Tech CSE) · IIT Kanpur (B.Tech)
 focus:     Agents, LLMs, RAG, fine-tuning & distillation, NLP, deep learning, data science
 email:     harsh.ankit.619@gmail.com
+linkedin:  https://www.linkedin.com/in/harsh364
 web:       https://harsh364.github.io
 portfolio: https://harsh364.github.io/#projects
 github:    https://github.com/harsh364
